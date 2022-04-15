@@ -1,0 +1,34 @@
+body{
+  background-color:#bb7db2;
+  margin:0 auto;
+}
+
+.ptb{
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.instructions{display:block; 
+
+width:800px;
+position:relative;}
+
+.btn{
+  background-color:#e3c09b;
+ 
+  padding:10px;
+  position:relative;
+  display:inline-block;
+ 
+}
+
+.btn:hover {
+   cursor:pointer;
+  background-color:#d7cbd4;
+}
+
+.grid_holder{
+  width:800px;
+  margin-top:20px;
+  
+  
+}
