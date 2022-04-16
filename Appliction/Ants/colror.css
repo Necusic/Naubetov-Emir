@@ -1,0 +1,15 @@
+
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.75em;
+    font-size: 16px;
+    background-color: rgb(117, 6, 134, 0.55);
+    color: rgb(255, 255, 255);
+}
+
